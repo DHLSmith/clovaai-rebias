@@ -5,6 +5,8 @@ MIT license
 
 Python implementation of Biased-MNIST.
 Modified to add background only and mixed datasets
+Original at https://github.com/clovaai/rebias/blob/master/datasets/colour_mnist.py
+Forked to https://github.com/DHLSmith/clovaai-rebias/blob/master/datasets/colour_mnist.py
 
 Cite Original As:
 @inproceedings{bahng2019rebias,
